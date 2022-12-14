@@ -1,0 +1,4 @@
+Пакеты для установки
+1. pip install django
+2. pip install django-filter
+3. pip install django-allauth
